@@ -1,12 +1,12 @@
 {
-  "name": "shell-map",
+  "name": "WOW-map",
   "version": "1.0.0",
-  "description": "Provides a map of turtle nodes.",
+  "description": "Provides a map of WOW nodes.",
   "main": "init.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "DiscoTim",
+  "author": "OIEIEIO",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "better-queue": "^3.8.10",
