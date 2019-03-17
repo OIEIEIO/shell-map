@@ -4,7 +4,7 @@ const config = {};
 
 config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-nodes-json/master/turtlecoin-nodes.json';
 
-config.serverHost = '0.0.0.0';
+config.serverHost = '173.212.213.63';
 
 config.serverPort = 8080;
 
@@ -16,7 +16,7 @@ config.nodeTTL = 3600;
 
 config.rpcPort = 11898;
 
-config.queueReseedDelay = 60;
+config.queueReseedDelay = 3600;
 
 config.dnsServers = ['8.8.8.8', '8.8.4.4'];
 
