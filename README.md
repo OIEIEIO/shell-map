@@ -5,7 +5,7 @@
 ```
 curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
 sudo apt-get install -y nodejs
-git clone https://github.com/OIEIEIO/shell-map.git
+git clone -b monetaverde https://github.com/OIEIEIO/shell-map.git
 cd shell-map
 npm install
 node ./node_modules/geoip-lite/scripts/updatedb.js
